@@ -24,3 +24,14 @@ python calculator.py
 - Add support for power, square root
 - Add history of calculations
 - Build a GUI version (see `calculator-gui`)
+- ## 🧰 Technologies Used
+
+- Python 3.x
+
+## 🏷️ GitHub Topics
+
+`python` `calculator` `cli` `beginner-project` `command-line` `basic-programming`
+
+## 🙋‍♂️ Author
+
+Made with 💙 by [Ujjwal Singh](https://github.com/ujjwalsinghg)
